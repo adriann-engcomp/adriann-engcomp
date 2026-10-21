@@ -5,7 +5,6 @@ Estudante de **Engenharia de Computação na Unicamp** (2023–2028), com intere
 ## 🔭 O que estou fazendo agora
 
 - **Iniciação Científica (PIBIT – CNPq/Unicamp):** desenvolvimento de software para coleta, organização e análise de dados clínicos e cirúrgicos, apoiando o monitoramento de pacientes.
-- Estudando estruturas de dados em C e aprofundando em Python para análise de dados.
 
 ## 💼 Experiências
 
